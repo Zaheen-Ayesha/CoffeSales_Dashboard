@@ -1,5 +1,5 @@
 ## Project Title
-### Coffee Sales Data Cleaning and Dashboard Development*
+### Coffee Sales Data Cleaning and Dashboard Development Using MS Excel
 ## Objectives
 - Clean and organize the data in the orders table by filling in missing customer and product information.
 
