@@ -1,2 +1,2 @@
 ## Project Title
-#### Coffee Sales Data Cleaning and Dashboard Development
+*Coffee Sales Data Cleaning and Dashboard Development*
